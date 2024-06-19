@@ -113,9 +113,9 @@ body {
     circle at 100% 107%,
     #fdf497 0%,
     #fdf497 5%,
-    #fd5949 45%,
-    #d6249f 60%,
-    #285aeb 90%
+    #c7fd49 45%,
+    #24a4d6 60%,
+    #eb2873 90%
   );
 }
 
@@ -132,4 +132,9 @@ body {
   align-items: center;
   flex-direction: column;
   margin-top: 1rem;
+}
+
+a {
+  text-decoration: none;
+  color: inherit !important;
 }

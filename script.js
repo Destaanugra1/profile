@@ -7,3 +7,7 @@ toggleHeart.addEventListener("click", () => {
       toggleHeart.style.color = "white";
     }
 })
+
+document.querySelector('.hire-me').addEventListener('click', function() {
+  window.location.href = 'https://www.instagram.com/destaanugrahpr?igsh=b3AxNHk4ZGZocHJm';
+});
